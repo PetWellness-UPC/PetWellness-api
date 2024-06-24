@@ -97,6 +97,13 @@
       "email": "Jimenez@example.pe",
       "password": "davidluiz",
       "id": 6
+    },
+    {
+      "firstName": "Raul",
+      "lastName": "Jimenez",
+      "email": "Jimenez@example.pe",
+      "password": "davidluiz",
+      "id": 7
     }
   ],
   "books": [
@@ -179,7 +186,7 @@
   ],
   "PagoUsuarioVIP": [
     {
-      "id":1,
+      "id": 1,
       "name": "Luis",
       "email": "valdivia@upc.edu.pe",
       "NumeroTarjeta": "9999444422221111",
@@ -187,12 +194,94 @@
       "CVV": "452"
     },
     {
-      "id":2,
+      "id": 2,
       "name": "Jorge",
       "email": "Jorge@example.pe",
       "NumeroTarjeta": "9999444488881111",
       "EXP": "Diciembre de 2024",
       "CVV": "717"
+    },
+    {
+      "id": 3,
+      "name": "Carlos",
+      "email": "Carlos@example.pe",
+      "NumeroTarjeta": "9999444466661111",
+      "EXP": "Diciembre de 2024",
+      "CVV": "817"
+    },
+    {
+      "name": "Juan",
+      "email": "Perez@example.pe",
+      "NumeroTarjeta": "1111444466661111",
+      "EXP": "Diciembre de 2024",
+      "CVV": "321",
+      "id": 4
+    },
+    {
+      "name": "Jacobo",
+      "email": "Dominguez@example.pe",
+      "NumeroTarjeta": "1111444477771111",
+      "EXP": "Diciembre de 2024",
+      "CVV": "564",
+      "id": 5
+    },
+    {
+      "name": "Juan",
+      "email": "Perez@example.pe",
+      "NumeroTarjeta": "1111444466661111",
+      "EXP": "Diciembre de 2024",
+      "CVV": "321",
+      "id": 6
+    },
+    {
+      "nombre": "Nombre Ejemplo",
+      "email": "ejemplo@correo.com",
+      "numeroTarjeta": "1234567812345678",
+      "fechaExpiracion": "2024-07",
+      "cvv": "123",
+      "id": 7
+    },
+    {
+      "name": "huoiojh",
+      "email": "hjkhjkhkjh",
+      "NumeroTarjeta": "hkjhkjh",
+      "EXP": "2024-07",
+      "CVV": "155",
+      "id": 8
+    },
+    {
+      "name": "jkljkljlk",
+      "email": "jjjkjlk",
+      "NumeroTarjeta": "jkljlkjl",
+      "EXP": "2024-03",
+      "CVV": "kl",
+      "id": 9
+    },
+    {
+      "name": "kopkpok",
+      "email": "popoijoiijo@gmail.com",
+      "NumeroTarjeta": "poppoopkopk",
+      "EXP": "2024-07",
+      "CVV": "12123",
+      "id": 10
+    }
+  ],
+  "PagoVeterinario": [
+    {
+      "name": "jkhjh",
+      "email": "jkhhjkhk",
+      "NumeroTarjeta": "hjkhh",
+      "EXP": "2024-01",
+      "CVV": "hjhjk",
+      "id": 1
+    },
+    {
+      "name": "hkjihuihui",
+      "email": "vetojaifdsoi@xn--sadlkakpj-n6ae",
+      "NumeroTarjeta": "45867984065410",
+      "EXP": "2024-12",
+      "CVV": "123",
+      "id": 2
     }
   ]
 }
